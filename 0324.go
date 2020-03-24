@@ -76,3 +76,6 @@ func main() {
         fmt.Println(msg)
     }("Fujimoto")
 }
+
+
+
